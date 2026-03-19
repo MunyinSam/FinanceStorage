@@ -8,5 +8,8 @@
       "mainClass": "com.example.MainApp",
       "vmArgs": "--module-path \"C:\\javafx-sdk-26\\lib\" --add-modules javafx.controls,javafx.fxml"
     }
+  ],
+    "java.project.referencedLibraries": [
+    "C:\\javafx-sdk-26\\lib\\*.jar"
   ]
 }
